@@ -6,7 +6,7 @@ export default function Footer(props) {
     return(
         <div className='footer'>
             <p>
-                <Link to='/policy'>
+                <Link to='/help-hes-wack/policy'>
                     <p>Privacy Policy</p>
                 </Link>
             </p>

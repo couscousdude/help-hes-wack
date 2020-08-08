@@ -11,9 +11,9 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Redirect from='/' to='/blackman' exact />
-        <Route path='/blackman' exact component={Blackman} />
-        <Route path='/policy' exact component={Policy} />
+        <Redirect from={process.env.PUBLIC_URL} to={`${process.env.PUBLIC_URL}/blackman`} exact />
+        <Route path={`/help-hes-wack/blackman`} exact component={Blackman} />
+        <Route path={`/help-hes-wack/policy`} exact component={Policy} />
       </Switch>
       <Footer />
     </Router>
