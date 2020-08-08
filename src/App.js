@@ -1,25 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import Blackman from './components/Blackman';
+import Footer from './components/Footer';
+import Policy from './components/Policy';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Navbar />
+      <Switch>
+        <Redirect from='/' to='/blackman' exact />
+        <Route path='/blackman' exact component={Blackman} />
+        <Route path='/policy' exact component={Policy} />
+      </Switch>
+      <Footer />
+    </Router>
   );
 }
 
