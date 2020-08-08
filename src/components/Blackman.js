@@ -1,5 +1,4 @@
 import React from 'react';
-import './Blackman.css';
 import BlackManStory from './assets/BlackManStory';
 const BlackmanImg = require('./assets/Blackman.png');
 
