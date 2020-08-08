@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7f0af50441f399b8032680ec338ef5a",
+    "revision": "abbc67b460836d80e4ac4292128ee241",
     "url": "/help-hes-wack/index.html"
   },
   {
-    "revision": "517bcd5e207eb7068e5f",
+    "revision": "8ab166a3fb43e7596218",
     "url": "/help-hes-wack/static/css/main.6227faed.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/help-hes-wack/static/js/2.0c91ec65.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "517bcd5e207eb7068e5f",
-    "url": "/help-hes-wack/static/js/main.9f3e10b2.chunk.js"
+    "revision": "8ab166a3fb43e7596218",
+    "url": "/help-hes-wack/static/js/main.d20a8b12.chunk.js"
   },
   {
     "revision": "9c8bd39fb22c09870dfe",
