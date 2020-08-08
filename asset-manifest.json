@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/help-hes-wack/static/css/main.6227faed.chunk.css",
+    "main.js": "/help-hes-wack/static/js/main.9f3e10b2.chunk.js",
+    "main.js.map": "/help-hes-wack/static/js/main.9f3e10b2.chunk.js.map",
+    "runtime-main.js": "/help-hes-wack/static/js/runtime-main.e70dec95.js",
+    "runtime-main.js.map": "/help-hes-wack/static/js/runtime-main.e70dec95.js.map",
+    "static/js/2.0c91ec65.chunk.js": "/help-hes-wack/static/js/2.0c91ec65.chunk.js",
+    "static/js/2.0c91ec65.chunk.js.map": "/help-hes-wack/static/js/2.0c91ec65.chunk.js.map",
+    "index.html": "/help-hes-wack/index.html",
+    "precache-manifest.6adc8cfa899e2951a9c14653db093817.js": "/help-hes-wack/precache-manifest.6adc8cfa899e2951a9c14653db093817.js",
+    "service-worker.js": "/help-hes-wack/service-worker.js",
+    "static/css/main.6227faed.chunk.css.map": "/help-hes-wack/static/css/main.6227faed.chunk.css.map",
+    "static/js/2.0c91ec65.chunk.js.LICENSE.txt": "/help-hes-wack/static/js/2.0c91ec65.chunk.js.LICENSE.txt",
+    "static/media/Blackman.png": "/help-hes-wack/static/media/Blackman.bbe97376.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e70dec95.js",
+    "static/js/2.0c91ec65.chunk.js",
+    "static/css/main.6227faed.chunk.css",
+    "static/js/main.9f3e10b2.chunk.js"
+  ]
+}
